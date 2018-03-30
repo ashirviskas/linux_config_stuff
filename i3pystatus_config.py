@@ -1,5 +1,5 @@
 from i3pystatus import Status
-
+#This file is used for i3pystatus, modified default one to include network up/down, CPU usage and removed (commented out) the unneed stuff.
 status = Status()
 
 # Displays clock like this:
